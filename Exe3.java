@@ -1,3 +1,13 @@
+/*
+3. Criar um programa que leia uma palavra e mostre se tal palavra é um palíndromo ou não, exemplo:
+Digite uma palavra:
+Roma
+Resultado: Roma não é palíndromo
+Digite uma palavra:
+Reger
+Resultado: Reger é palíndromo
+*/
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
